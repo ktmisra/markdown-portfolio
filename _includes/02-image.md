@@ -1,0 +1,1 @@
+![Image of murakamicat](https://octodex.github.com/murakamicat/)
